@@ -1,0 +1,12 @@
+{
+    "ruins" : {
+        "RQ_LV" : 1,
+        "shop_im" : "https://cdn.discordapp.com/attachments/900274624594575361/946653891049709568/unknown.png,"
+    },
+    "snowdin" : {"RQ_LV" : 3},
+    "waterfall" : {"RQ_LV" : 10},
+    "hotland" : {"RQ_LV" : 15},
+    "core" : {"RQ_LV" : 20},
+    "the barrier" : {"RQ_LV" : 50},
+    "last corridor" : {"RQ_LV" : 60}
+}
