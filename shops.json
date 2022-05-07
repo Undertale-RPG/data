@@ -1,0 +1,95 @@
+{
+    "ruins": {
+        "spider bakery": {
+            "items": {
+                "toy knife": 1200,
+                "faded ribbon": 700,
+                "monster candy": 20,
+                "spider cider": 40,
+                "spider donut": 35
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969150337200062494/IMG_0060.webp"
+        }
+    },
+    "snowdin": {
+        "Nicecream stand": {
+            "items": {
+                "nice cream": 40
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969156862048083989/IMG_0063.png"
+        },
+        "Snowdin Town Shop": {
+            "items": {
+                "manly bandanna": 1400,
+                "bisicle": 100,
+                "cinnamon bunny": 120,
+                "tough gloves": 210
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969149572154785792/IMG_0056.webp"
+        }
+    },
+    "waterfall": {
+        "Nicecream stand": {
+            "items": {
+                "nice cream": 40
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969157936498769920/IMG_0070.png"
+        },
+        "Old man trashcan": {
+            "items": {
+                "ballet shoes": 2400,
+                "old tutu": 1800,
+                "cloudy glasses": 1600,
+                "crab apple": 520,
+                "torn notebook": 2100,
+                "sea tea": 720
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969149799863578654/IMG_0058.png"
+        },
+        "Tem Shop": {
+            "items": {
+                "temmie armor": 99999,
+                "tem flakes": 1
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969159538240548904/IMG_0072.png"
+        }
+    },
+    "hotland": {
+        "sans hotdog stand": {
+            "items": {
+                "hot dog": 99,
+                "hot cat": 98,
+                "cat hot": 97
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969150763534286879/IMG_0061.png"
+        },
+        "catty and pratty trash can": {
+            "items": {
+                "stained arpon": 4500,
+                "cowboy hat": 7200,
+                "junk food": 420,
+                "burnt pan": 6200,
+                "empty gun": 7900
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969157537532358666/IMG_0066.png"
+        },
+        "Nice cream stand": {
+            "items": {
+                "nice cream": 40
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969157936737832960/IMG_0069.png"
+        }
+    },
+    "core": {
+        "MTT Resort Shop": {
+            "items": {
+                "glamburger": 720,
+                "hush puppy": 520,
+                "legendary hero": 820,
+                "starfait": 550,
+                "steak in the shape of mettaton's face": 320
+            },
+            "image": "https://media.discordapp.net/attachments/900274624594575361/969150089509625947/IMG_0059.png"
+        }
+    }
+}
