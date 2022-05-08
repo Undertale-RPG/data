@@ -11,6 +11,21 @@
         "min_dfs" : 1,
         "price" : 5
     },
+    "hot dog" : {
+        "HP" : 23,
+        "func" : "food",
+        "price" : 12
+    },
+    "hot cat" : {
+        "HP" : 23,
+        "func" : "food",
+        "price" : 11
+    },
+    "cat hot" : {
+        "HP" : 25,
+        "func" : "food",
+        "price" : 10
+    },
     "bisicle" : {
         "HP" : 22,
         "func" : "food",
