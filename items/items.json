@@ -1,220 +1,187 @@
 {
-  "bandage": {
-    "min_dfs": 1,
-    "max_dfs": 2,
-    "location": null,
-    "func": "armor",
-    "price" : 5
-  },
-  "faded ribbon": {
-    "min_dfs": 3,
-    "max_dfs": 4,
-    "location": "ruins",
-    "price": 700,
-    "func": "armor"
-  },
-  "manly bandanna": {
-    "min_dfs": 13,
-    "max_dfs": 16,
-    "location": "snowdin",
-    "price": 1400,
-    "func": "armor"
-  },
-  "old tutu": {
-    "min_dfs": 17,
-    "max_dfs": 19,
-    "location": "waterfall",
-    "price": 1900,
-    "func": "armor"
-  },
-  "cloudy glasses": {
-    "min_dfs": 8,
-    "max_dfs": 14,
-    "location": "waterfall",
-    "price": 1700,
-    "func": "armor"
-  },
-  "temmie armor": {
-    "min_dfs": 32,
-    "max_dfs": 36,
-    "location": "waterfall",
-    "price": 9999,
-    "func": "armor"
-  },
-  "stained arpon": {
-    "min_dfs": 38,
-    "max_dfs": 42,
-    "location": "hotland",
-    "price": 2500,
-    "func": "armor"
-  },
-  "cowboy hat": {
-    "min_dfs": 18,
-    "max_dfs": 26,
-    "location": "hotland",
-    "price": 3400,
-    "func": "armor"
-  },
-  "the locket": {
-    "min_dfs": 19,
-    "max_dfs": 30,
-    "location": "last corridor",
-    "price": 6500,
-    "func": "armor"
-  },
-  "heart locket": {
-    "min_dfs": 20,
-    "max_dfs": 30,
-    "location": "last corridor",
-    "price": 5200,
-    "func": "armor"
-  },
-  "bisicle": {
-    "HP": 22,
-    "price": 21,
-    "location": "snowdin",
-    "func": "food"
-  },
-  "cinnamon bunny": {
-    "HP": 27,
-    "name": "Cinnamon Bunny",
-    "price": 28,
-    "location": "snowdin",
-    "func": "food"
-  },
-  "crab apple": {
-    "HP": 32,
-    "price": 37,
-    "location": "waterfall",
-    "func": "food"
-  },
-  "glamburger": {
-    "HP": 43,
-    "price": 36,
-    "location": "core",
-    "func": "food"
-  },
-  "hush puppy": {
-    "HP": 67,
-    "price": 50,
-    "location": "core",
-    "func": "food"
-  },
-  "junk food": {
-    "HP": 27,
-    "price": 23,
-    "location": "hotland",
-    "func": "food"
-  },
-  "legendary hero": {
-    "HP": 64,
-    "price": 86,
-    "location": "core",
-    "func": "food"
-  },
-  "monster candy": {
-    "HP": 10,
-    "price": 13,
-    "location": "ruins",
-    "func": "food"
-  },
-  "nice cream": {
-    "HP": 18,
-    "price": 23,
-    "location": "snowdin",
-    "func": "food"
-  },
-  "sea tea": {
-    "HP": 24,
-    "price": 28,
-    "location": "waterfall",
-    "func": "food"
-  },
-  "spider cider": {
-    "HP": 24,
-    "price": 25,
-    "location": "ruins",
-    "func": "food"
-  },
-  "spider donut": {
-    "HP": 12,
-    "price": 17,
-    "location": "ruins",
-    "func": "food"
-  },
-  "starfait": {
-    "HP": 32,
-    "price": 27,
-    "location": "core",
-    "func": "food"
-  },
-  "steak in the shape of mettaton's face": {
-    "HP": 80,
-    "price": 120,
-    "location": "core",
-    "func": "food"
-  },
-  "stick": {
-    "min_dmg": 7,
-    "max_dmg": 8,
-    "location": null,
-    "price" : 2,
-    "func" : "weapon"
-  },
-  "toy knife": {
-    "min_dmg": 10,
-    "max_dmg": 14,
-    "location": "ruins",
-    "func": "weapon",
-    "price": 1200
-  },
-  "tough gloves": {
-    "min_dmg": 16,
-    "max_dmg": 18,
-    "location": "snowdin",
-    "price": 1700,
-    "func": "weapon"
-  },
-  "ballet shoes": {
-    "min_dmg": 22,
-    "max_dmg": 26,
-    "location": "waterfall",
-    "price": 2100,
-    "func": "weapon"
-  },
-  "torn notebook": {
-    "min_dmg": 22,
-    "max_dmg": 25,
-    "location": "waterfall",
-    "price": 1900,
-    "func": "weapon"
-  },
-  "burnt pan": {
-    "min_dmg": 27,
-    "max_dmg": 32,
-    "location": "hotland",
-    "price": 3200,
-    "func": "weapon"
-  },
-  "empty gun": {
-    "min_dmg": 40,
-    "max_dmg": 45,
-    "location": "hotland",
-    "price": 4200,
-    "func": "weapon"
-  },
-  "worn dagger": {
-    "min_dmg": 56,
-    "max_dmg": 76,
-    "location": "last corridor",
-    "price": 6200,
-    "func": "weapon"
-  },
-  "real knife": {
-    "min_dmg": 80,
-    "max_dmg": 99,
-    "location": "last corridor",
-    "price" : 10000,
-    "func" : "weapon"
-  }
+    "ballet shoes" : {
+        "func" : "weapon",
+        "max_dmg" : 26,
+        "min_dmg" : 22,
+        "price" : 2100
+    },
+    "bandage" : {
+        "func" : "armor",
+        "max_dfs" : 2,
+        "min_dfs" : 1,
+        "price" : 5
+    },
+    "bisicle" : {
+        "HP" : 22,
+        "func" : "food",
+        "price" : 21
+    },
+    "burnt pan" : {
+        "func" : "weapon",
+        "max_dmg" : 32,
+        "min_dmg" : 27,
+        "price" : 3200
+    },
+    "cinnamon bunny" : {
+        "HP" : 27,
+        "func" : "food",
+        "name" : "Cinnamon Bunny",
+        "price" : 28
+    },
+    "cloudy glasses" : {
+        "func" : "armor",
+        "max_dfs" : 14,
+        "min_dfs" : 8,
+        "price" : 1700
+    },
+    "cowboy hat" : {
+        "func" : "armor",
+        "max_dfs" : 26,
+        "min_dfs" : 18,
+        "price" : 3400
+    },
+    "crab apple" : {
+        "HP" : 32,
+        "func" : "food",
+        "price" : 37
+    },
+    "empty gun" : {
+        "func" : "weapon",
+        "max_dmg" : 45,
+        "min_dmg" : 40,
+        "price" : 4200
+    },
+    "faded ribbon" : {
+        "func" : "armor",
+        "max_dfs" : 4,
+        "min_dfs" : 3,
+        "price" : 700
+    },
+    "glamburger" : {
+        "HP" : 43,
+        "func" : "food",
+        "price" : 36
+    },
+    "heart locket" : {
+        "func" : "armor",
+        "max_dfs" : 30,
+        "min_dfs" : 20,
+        "price" : 5200
+    },
+    "hush puppy" : {
+        "HP" : 67,
+        "func" : "food",
+        "price" : 50
+    },
+    "junk food" : {
+        "HP" : 27,
+        "func" : "food",
+        "price" : 23
+    },
+    "legendary hero" : {
+        "HP" : 64,
+        "func" : "food",
+        "price" : 86
+    },
+    "manly bandanna" : {
+        "func" : "armor",
+        "max_dfs" : 16,
+        "min_dfs" : 13,
+        "price" : 1400
+    },
+    "monster candy" : {
+        "HP" : 10,
+        "func" : "food",
+        "price" : 13
+    },
+    "nice cream" : {
+        "HP" : 18,
+        "func" : "food",
+        "price" : 23
+    },
+    "old tutu" : {
+        "func" : "armor",
+        "max_dfs" : 19,
+        "min_dfs" : 17,
+        "price" : 1900
+    },
+    "real knife" : {
+        "func" : "weapon",
+        "max_dmg" : 99,
+        "min_dmg" : 80,
+        "price" : 10000
+    },
+    "sea tea" : {
+        "HP" : 24,
+        "func" : "food",
+        "price" : 28
+    },
+    "spider cider" : {
+        "HP" : 24,
+        "func" : "food",
+        "price" : 25
+    },
+    "spider donut" : {
+        "HP" : 12,
+        "func" : "food",
+        "price" : 17
+    },
+    "stained arpon" : {
+        "func" : "armor",
+        "max_dfs" : 42,
+        "min_dfs" : 38,
+        "price" : 2500
+    },
+    "starfait" : {
+        "HP" : 32,
+        "func" : "food",
+        "price" : 27
+    },
+    "steak in the shape of mettaton's face" : {
+        "HP" : 80,
+        "func" : "food",
+        "price" : 120
+    },
+    "stick" : {
+        "func" : "weapon",
+        "max_dmg" : 8,
+        "min_dmg" : 7,
+        "price" : 2
+    },
+    "temmie armor" : {
+        "func" : "armor",
+        "max_dfs" : 36,
+        "min_dfs" : 32,
+        "price" : 9999
+    },
+    "the locket" : {
+        "func" : "armor",
+        "max_dfs" : 30,
+        "min_dfs" : 19,
+        "price" : 6500
+    },
+    "torn notebook" : {
+        "func" : "weapon",
+        "max_dmg" : 25,
+        "min_dmg" : 22,
+        "price" : 1900
+    },
+    "tough gloves" : {
+        "func" : "weapon",
+        "max_dmg" : 18,
+        "min_dmg" : 16,
+        "price" : 1700
+    },
+    "toy knife" : {
+        "func" : "weapon",
+        "max_dmg" : 14,
+        "min_dmg" : 10,
+        "price" : 1200
+    },
+    "worn dagger" : {
+        "func" : "weapon",
+        "max_dmg" : 76,
+        "min_dmg" : 56,
+        "price" : 6200
+    }
 }
