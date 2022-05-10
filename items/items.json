@@ -16,6 +16,11 @@
         "func" : "food",
         "price" : 12
     },
+    "tem flakes" : {
+        "HP" : 5,
+        "func" : "food",
+        "price" : 2
+    },
     "hot cat" : {
         "HP" : 23,
         "func" : "food",
