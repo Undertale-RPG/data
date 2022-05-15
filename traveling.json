@@ -1,27 +1,27 @@
 {
     "ruins" : {
         "RQ_LV" : 1,
-        "max_kills" : 2,
+        "max_kills" : -1,
         "boss_only" : false
     },
     "snowdin" : {
         "RQ_LV" : 3,
-        "max_kills" : 0,
+        "max_kills" : -1,
         "boss_only" : false
     },
     "waterfall" : {
         "RQ_LV" : 10,
-        "max_kills" : 0,
+        "max_kills" : -1,
         "boss_only" : false
     },
     "hotland" : {
         "RQ_LV" : 15,
-        "max_kills" : 0,
+        "max_kills" : -1,
         "boss_only" : false
     },
     "core" : {
         "RQ_LV" : 20,
-        "max_kills" : 0,
+        "max_kills" : -1,
         "boss_only" : false
     },
     "the barrier" : {
@@ -31,7 +31,7 @@
     },
     "last corridor" : {
         "RQ_LV" : 50,
-        "max_kills" : 0,
+        "max_kills" : -1,
         "boss_only" : true
     }
 }
