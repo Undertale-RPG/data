@@ -102,6 +102,16 @@
             "s_talk" : "Welcome to MTT-Brand Burger Emporium, Home of the Glamburger."
         }
     },
+    "the barrier" : {
+        "The old house" : {
+            "items": {
+                "worn dagger": 13500
+            },
+            "image" : "https://media.discordapp.net/attachments/827651835372240986/974347710209593394/IMG_0007.png",
+            "s_talk" : ". . ."
+        }
+
+    },
     "last corridor" : {
         "UnKnown Shop" : {
             "items" : {
@@ -109,7 +119,7 @@
                 "real knife" : 30000
             },
             "image" : "https://media.discordapp.net/attachments/827651835372240986/974347710209593394/IMG_0007.png",
-            "s_talk" : "..."
+            "s_talk" : ". . ."
         }
     }
 }
