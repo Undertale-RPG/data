@@ -4,6 +4,6 @@
     "waterfall" : {"RQ_LV" : 10},
     "hotland" : {"RQ_LV" : 15},
     "core" : {"RQ_LV" : 20},
-    "the barrier" : {"RQ_LV" : 50},
-    "last corridor" : {"RQ_LV" : 60}
+    "the barrier" : {"RQ_LV" : 30},
+    "last corridor" : {"RQ_LV" : 50}
 }
