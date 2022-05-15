@@ -324,7 +324,7 @@
   },
   "napstablook": {
     "atk": 8,
-    "boss": true,
+    "boss": false,
     "check_data": "oh, i'm REAL funny",
     "location": "ruins",
     "loot": [],
