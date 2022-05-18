@@ -351,11 +351,11 @@
         "title" : "Special enemy Temmie appears here to defeat you!!"
     },
     "toriel" : {
-        "DF" : "1",
+        "DF" : 1,
         "GOLD" : 0,
         "HP" : 440,
         "XP" : 0,
-        "atk" : "8",
+        "atk" : 8,
         "boss" : true,
         "check_data" : "Knows the best for You.",
         "im" : "https://static.wikia.nocookie.net/undertale/images/f/f3/Toriel_battle.png",
