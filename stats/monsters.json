@@ -249,8 +249,8 @@
     "moldsmal" : {
         "DF" : 4,
         "GOLD" : 30,
-        "HP" : 70,
-        "XP" : 46,
+        "HP" : 20,
+        "XP" : 4,
         "atk" : 7,
         "boss" : false,
         "check_data" : "Stereotypical: Curvaceously attractive, but no brains...",
