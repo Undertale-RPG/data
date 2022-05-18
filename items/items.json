@@ -1,207 +1,231 @@
 {
     "ballet shoes" : {
         "func" : "weapon",
-        "max_dmg" : 26,
-        "min_dmg" : 22,
-        "price" : 2100
+        "ATK" : 7,
+        "price" : 2100,
+        "desc" : "These used shoes make you feel incredibly dangerous"
+    },
+    "butterscotch pie" : {
+        "func": "food",
+        "HP": 99999,
+        "price": null,
+        "desc": "Butterscotch-cinnamon pie, one slice."
     },
     "bandage" : {
-        "func" : "armor",
-        "max_dfs" : 2,
-        "min_dfs" : 1,
-        "price" : 5
+        "func" : "food",
+        "DF" : 2,
+        "HP" : 10,
+        "price" : 5,
+        "desc" : "It has already been used several times"
     },
     "hot dog" : {
-        "HP" : 23,
+        "HP" : 20,
         "func" : "food",
-        "price" : 12
+        "price" : 12,
+        "desc" : "The 'meat' is made of something called a 'water sausage.'"
     },
     "tem flakes" : {
-        "HP" : 5,
+        "HP" : 2,
         "func" : "food",
-        "price" : 2
+        "price" : 1,
+        "desc" : "it's just torn up pieces of colored construction paper."
     },
     "hot cat" : {
-        "HP" : 23,
+        "HP" : 21,
         "func" : "food",
-        "price" : 11
+        "price" : 11,
+        "desc" : "Like a hot dog. but a little cat ears on the end."
     },
     "cat hot" : {
         "HP" : 25,
         "func" : "food",
-        "price" : 10
+        "price" : 10,
+        "desc" : "This cat is hot...?"
     },
     "bisicle" : {
         "HP" : 22,
         "func" : "food",
-        "price" : 21
+        "price" : 21,
+        "desc" : "it's a two-proned popsicle. so you can eat it twice"
     },
     "burnt pan" : {
         "func" : "weapon",
-        "max_dmg" : 32,
-        "min_dmg" : 27,
-        "price" : 3200
+        "ATK" : 10,
+        "price" : 3200,
+        "desc" : "Damage is rather consistent, consumable items heal four more HP"
     },
     "cinnamon bunny" : {
-        "HP" : 27,
+        "HP" : 22,
         "func" : "food",
-        "name" : "Cinnamon Bunny",
-        "price" : 28
+        "price" : 28,
+        "desc" : "A cinnamon roll in the shape of a bunny."
     },
     "cloudy glasses" : {
         "func" : "armor",
-        "max_dfs" : 14,
-        "min_dfs" : 8,
-        "price" : 1700
+        "DF" : 6,
+        "price" : 1700,
+        "desc" : "Glasses marred with wear. Increases INV by 6."
     },
     "cowboy hat" : {
         "func" : "armor",
-        "max_dfs" : 26,
-        "min_dfs" : 18,
-        "price" : 3400
+        "DF" : 12,
+        "price" : 3400,
+        "desc" : "This battle-worn hat makes you want to grow a beard. It also raises  ATTACK by 5."
     },
     "crab apple" : {
-        "HP" : 32,
+        "HP" : 18,
         "func" : "food",
-        "price" : 37
+        "price" : 37,
+        "desc" : "An aquatic fruit that resembles a cristacean."
     },
     "empty gun" : {
         "func" : "weapon",
-        "max_dmg" : 45,
-        "min_dmg" : 40,
-        "price" : 4200
+        "ATK" : 12,
+        "price" : 4200,
+        "desc" : "An antique revolver. It has no ammo, Must be used precisely or damage will be low."
     },
     "faded ribbon" : {
         "func" : "armor",
-        "max_dfs" : 4,
-        "min_dfs" : 3,
-        "price" : 700
+        "DF" : 3,
+        "price" : 700,
+        "desc" : "If you're cuter, monster won't hit you as hard."
     },
     "glamburger" : {
-        "HP" : 43,
+        "HP" : 27,
         "func" : "food",
-        "price" : 36
+        "price" : 36,
+        "desc" : "A hamburger made of edible glitter and sequins."
     },
     "heart locket" : {
         "func" : "armor",
-        "max_dfs" : 30,
-        "min_dfs" : 20,
-        "price" : 5200
+        "DF" : 15,
+        "price" : 5200,
+        "desc" : "It says 'Best Friends Forever.'"
     },
     "hush puppy" : {
-        "HP" : 67,
+        "HP" : 65,
         "func" : "food",
-        "price" : 50
+        "price" : 50,
+        "desc" : "This Wonderful spell will stop a dog from casting magic"
     },
     "junk food" : {
-        "HP" : 27,
+        "HP" : 17,
         "func" : "food",
-        "price" : 23
+        "price" : 23,
+        "desc" : "Food that was probably once thrown away."
     },
     "legendary hero" : {
-        "HP" : 64,
+        "HP" : 40,
         "func" : "food",
-        "price" : 86
+        "price" : 86,
+        "desc" : "Sandwich shaped like a sword. Increases ATTACK when eaten."
     },
     "manly bandanna" : {
         "func" : "armor",
-        "max_dfs" : 16,
-        "min_dfs" : 13,
-        "price" : 1400
+        "DF" : 7,
+        "price" : 1400,
+        "desc" : "It has seen some wear, it has abs drawn on it."
     },
     "monster candy" : {
         "HP" : 10,
         "func" : "food",
-        "price" : 13
+        "price" : 13,
+        "desc" : "Has a distinct, non-licorice flavor"
     },
     "nice cream" : {
-        "HP" : 18,
+        "HP" : 15,
         "func" : "food",
-        "price" : 23
+        "price" : 15,
+        "desc" : "Instead of a joke, the wrapper says something nice."
     },
     "old tutu" : {
         "func" : "armor",
-        "max_dfs" : 19,
-        "min_dfs" : 17,
-        "price" : 1900
+        "DF" : 10,
+        "price" : 1900,
+        "desc" : "Finally, a protective piece of armor"
     },
     "real knife" : {
         "func" : "weapon",
-        "max_dmg" : 99,
-        "min_dmg" : 80,
-        "price" : 10000
+        "ATK" : 99,
+        "price" : 10000,
+        "desc" : "Here we are!"
     },
     "sea tea" : {
-        "HP" : 24,
+        "HP" : 10,
         "func" : "food",
-        "price" : 28
+        "price" : 28,
+        "desc" : "Made from a glowing marsh water, increases SPEED for one battle."
     },
     "spider cider" : {
         "HP" : 24,
         "func" : "food",
-        "price" : 25
+        "price" : 18,
+        "desc" : "Made with whole spiders, not just the juice."
     },
     "spider donut" : {
         "HP" : 12,
         "func" : "food",
-        "price" : 17
+        "price" : 7,
+        "desc" : "A donut made with Spider Cider in the batter."
     },
     "stained arpon" : {
         "func" : "armor",
-        "max_dfs" : 42,
-        "min_dfs" : 38,
-        "price" : 2500
+        "DF" : 11,
+        "price" : 2500,
+        "desc" : "Heals 1HP every other turn."
     },
     "starfait" : {
-        "HP" : 32,
+        "HP" : 14,
         "func" : "food",
-        "price" : 27
+        "price" : 27,
+        "desc" : "A sweet treat made of sparkling stars."
     },
     "steak in the shape of mettaton's face" : {
-        "HP" : 80,
+        "HP" : 60,
         "func" : "food",
-        "price" : 120
+        "price" : 120,
+        "desc" : "Huge streak in the shape of Mettaton's face, you dont feel like its made of real meat."
     },
     "stick" : {
         "func" : "weapon",
-        "max_dmg" : 8,
-        "min_dmg" : 7,
-        "price" : 2
+        "ATK" : 2,
+        "price" : 2,
+        "desc" : "Its bark is worse than its bite."
     },
     "temmie armor" : {
         "func" : "armor",
-        "max_dfs" : 36,
-        "min_dfs" : 32,
-        "price" : 9999
+        "DF" : 20,
+        "price" : 9999,
+        "desc" : "The things you can do with college educational Raises ATTACk when worn.\nRecovers HP every other turn. INV up slightly."
     },
     "the locket" : {
         "func" : "armor",
-        "max_dfs" : 30,
-        "min_dfs" : 19,
-        "price" : 6500
+        "DF" : 99,
+        "price" : 6500,
+        "desc" : "You can feel it beating"
     },
     "torn notebook" : {
         "func" : "weapon",
-        "max_dmg" : 25,
-        "min_dmg" : 22,
-        "price" : 1900
+        "ATK" : 2,
+        "price" : 1900,
+        "desc" : "Contains illegable scrawls, Increases INV by 6"
     },
     "tough gloves" : {
         "func" : "weapon",
-        "max_dmg" : 18,
-        "min_dmg" : 16,
-        "price" : 1700
+        "ATK" : 5,
+        "price" : 1700,
+        "desc" : "A worn pink leather glove, For five-fingered folk."
     },
     "toy knife" : {
         "func" : "weapon",
-        "max_dmg" : 14,
-        "min_dmg" : 10,
-        "price" : 1200
+        "ATK" : 3,
+        "price" : 1200,
+        "desc" : "Made of plastic, A rarity nowadays."
     },
     "worn dagger" : {
         "func" : "weapon",
-        "max_dmg" : 76,
-        "min_dmg" : 56,
-        "price" : 6200
+        "ATK" : 15,
+        "price" : 6200,
+        "desc" : "Perfect for cutting plants and vines."
     }
 }
