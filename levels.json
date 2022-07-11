@@ -119,14 +119,14 @@
         "DF" : 4
     },
     "18" : {
-        "EXP_TO_LVLUP" : 25000,
+        "EXP_TO_LVLUP" : 17000,
         "location" : "core",
         "HP" : 88,
         "AT" : 34,
         "DF" : 4
     },
     "19" : {
-        "EXP_TO_LVLUP" : 49999,
+        "EXP_TO_LVLUP" : 25000,
         "location" : "last corridor",
         "HP" : 92,
         "AT" : 36,
